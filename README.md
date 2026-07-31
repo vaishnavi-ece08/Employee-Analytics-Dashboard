@@ -35,3 +35,10 @@ The dashboard provides a quick overview of employee information using Pivot Tabl
 - IT department has the highest average salary.
 - Performance is higher in March and May.
 - Dashboard allows filtering using City and Department slicers.
+
+
+Created by:
+Vaishnavi G
+
+Tools:
+Microsoft Excel
